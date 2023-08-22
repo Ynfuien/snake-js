@@ -7,8 +7,8 @@ const tickTime = 100;
 // Colors
 const colors = {
     background: "#242424",
-    snakeHead: "#FFAA00",
-    snakeBody: "#FFFF55",
+    snakeHead: "#FFDD24",
+    snakeBody: "#F0DB4F",
     berry: "#FF5555",
     border: "#555555",
     gameover: "#FF5555",
